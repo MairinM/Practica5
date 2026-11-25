@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220285533570",
+    "project_id": "basemitologica",
+    "storage_bucket": "basemitologica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220285533570:android:decddd4e801e0b3056639b",
+        "android_client_info": {
+          "package_name": "com.example.practica5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVaQoucgWy1B5aLOo4Rmah-p4xJiCniSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
